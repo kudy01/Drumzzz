@@ -1,7 +1,7 @@
 html {
   font-size: 10px;
   background: url('https://images.unsplash.com/photo-1508973379184-7517410fb0bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80') bottom center;
-  background-size: contain;
+  background-size: cover;
 }
 
 body,html {
